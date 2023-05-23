@@ -1,0 +1,6 @@
+.vscode/
+.ipynb_checkpoints/
+04_model_layer_implimentation_in_c/build/
+
+*.exe
+*.o
